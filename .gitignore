@@ -10,3 +10,9 @@ lyrics/
 *.csv
 *.txt
 *.json
+
+# Analysis
+/figures
+
+# macOS
+.DS_Store
