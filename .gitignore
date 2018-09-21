@@ -5,6 +5,7 @@
 pitchfork
 
 # Data
+data
 lyrics/
 *.pickle
 *.csv
